@@ -10,17 +10,17 @@ api_keys:
       organization: org-xxxxx
       model: gpt-3.5-turbo-16k
   gpt-4:    
-    - api_key: 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
+    - api_key: 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
       organization: org-YyhcyGc5diik544KUQh0ej93x
       model: gpt-4
-    - api_key: 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
+    - api_key: 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
       organization: org-YyhcyGc5diik544KUQh0ej93x
       model: gpt-4
   gpt-4-32k:
-    - api_key: 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
+    - api_key: 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
       organization: org-YyhcyGc5diik544KUQh0ej93x
       model: gpt-4-32k
-    - api_key: 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
+    - api_key: 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
       organization: org-YyhcyGc5diik544KUQh0ej93x
       model: gpt-4-32k
 
