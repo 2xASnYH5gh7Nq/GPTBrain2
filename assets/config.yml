@@ -6,21 +6,21 @@ api_keys:
       api_version: 2023-07-01-preview
       engine: GPT-35-Turbo-16k
       # you can use any kwargs supported by openai.ChatCompletion here
-    - api_key: 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
-      organization: org-YyhcyGc5diik544KUQh0ej93x
+    - api_key: sk-xxxxx
+      organization: org-xxxxx
       model: gpt-3.5-turbo-16k
   gpt-4:    
-    - api_key: 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
-      organization: org-xxxxx
+    - api_key: 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
+      organization: org-YyhcyGc5diik544KUQh0ej93x
       model: gpt-4
-    - api_key: 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
+    - api_key: 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
       organization: org-YyhcyGc5diik544KUQh0ej93x
       model: gpt-4
   gpt-4-32k:
-    - api_key: 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
-      organization: org-xxxxx
+    - api_key: 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
+      organization: org-YyhcyGc5diik544KUQh0ej93x
       model: gpt-4-32k
-    - api_key: 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
+    - api_key: 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
       organization: org-YyhcyGc5diik544KUQh0ej93x
       model: gpt-4-32k
 
